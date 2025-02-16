@@ -1,0 +1,6 @@
+@DBRejectionTherapyAPI_HostAddress = http://localhost:5067
+
+GET {{DBRejectionTherapiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
